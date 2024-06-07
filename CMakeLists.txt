@@ -4,7 +4,6 @@ project(Stpcpy)
 add_compile_options(
 	-Wall
 	-Wextra
-	-Werror
 )
 
 add_library(stpcpy
